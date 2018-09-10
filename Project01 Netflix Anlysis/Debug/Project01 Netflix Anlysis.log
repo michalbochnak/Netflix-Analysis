@@ -1,0 +1,7 @@
+﻿  Source.c
+c:\users\michal\documents\visual studio 2015\projects\project01 netflix anlysis\project01 netflix anlysis\source.c(70): warning C4133: 'function': incompatible types - from 'char *' to 'FILE *'
+c:\users\michal\documents\visual studio 2015\projects\project01 netflix anlysis\project01 netflix anlysis\source.c(93): warning C4133: 'function': incompatible types - from 'char *' to 'FILE *'
+c:\users\michal\documents\visual studio 2015\projects\project01 netflix anlysis\project01 netflix anlysis\source.c(231): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+c:\users\michal\documents\visual studio 2015\projects\project01 netflix anlysis\project01 netflix anlysis\source.c(240): warning C4133: 'function': incompatible types - from 'FILE *' to 'char *'
+  Project01 Netflix Anlysis.vcxproj -> C:\Users\Michal\documents\visual studio 2015\Projects\Project01 Netflix Anlysis\Debug\Project01 Netflix Anlysis.exe
+  Project01 Netflix Anlysis.vcxproj -> C:\Users\Michal\documents\visual studio 2015\Projects\Project01 Netflix Anlysis\Debug\Project01 Netflix Anlysis.pdb (Full PDB)
